@@ -147,13 +147,7 @@ Verdict: DON'T — Premature optimization that masks strategy deficiencies
 }
 ```
 
-## 5. AUTHOR ASSESSMENT
-
-**Author:** Tu Duy Trader (referenced in titles)
-**Expertise Area:** Vietnamese Forex Education Content  
-**Credibility Critique:** No verifiable track record provided, claims of 70% win rate and 40% monthly returns are unsubstantiated, lacks independent verification or regulatory oversight typical of professional trading education.
-
-## 6. MISSING CONTEXTUAL CAVEATS
+## 5. MISSING CONTEXTUAL CAVEATS
 
 • **Broker spread/commission variations** — Consequence: Strategy profitability varies dramatically across brokers → Mitigation: Test with actual broker conditions before implementation
 
